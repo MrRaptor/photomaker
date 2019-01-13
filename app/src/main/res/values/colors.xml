@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fedbd0</color>
+    <color name="colorPrimaryLight">#feeae6</color>
+    <color name="colorPrimaryDark">#442C2E</color>
+    <color name="colorAccent">#442C2E</color>
+
+    <color name="selected_filter">#221f20</color>
+    <color name="normal_filter">#5f5d5e</color>
+
+    <color name="white">#FFF</color>
+
+    <color name="grey">#E0DFDF</color>
+    <color name="dark_grey">#666666</color>
+    <color name="white_grey">#CCC</color>
+    <color name="ripple_red">#df414e</color>
+
+</resources>
